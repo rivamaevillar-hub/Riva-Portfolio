@@ -22,7 +22,7 @@ I have **8 years of experience in the BPO industry**, with expertise across:
 ## 📫 Contact Me
 
 - **Email:** rivamaevillar@gmail.com
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/yourusername](https://github.com/rivamaevillar)
 
 ---
 
