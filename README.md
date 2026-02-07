@@ -27,5 +27,5 @@ I have **8 years of experience in the BPO industry**, with expertise across:
 ---
 
 <div align="center">
-❤️ With love, Riva 😘 of
+❤️ With love, Riva 😘
 </div>
