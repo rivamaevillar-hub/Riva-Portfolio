@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Riva
 
-![Riva](assets/profile-pic.png)
+![Riva](profile-pic/profile-pic.png)
 
 **BPO Professional | Customer Service | Escalation Specialist | Quality Assurance**  
 
