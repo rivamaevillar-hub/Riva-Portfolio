@@ -44,8 +44,8 @@ Here are some examples of my work and achievements:
 
 ## 📫 Contact Me
 
-[📧 Email Me](mailto:your.email@example.com)  lo
-[🐱 GitHub](https://github.com/yourusername)  
+[📧 Email Me](mailto:rivamaevillar@gmail.com)  lo
+[🐱 GitHub](https://github.com/rivamaevillar)  
 
 ---
 
