@@ -38,7 +38,6 @@ Here are some examples of my work and achievements:
 | **QA Coaching Program** | QA Representative | Raised team service scores by 20% through coaching & monitoring. |
 | **Customer Service Excellence** | Customer Service | Achieved 95% client satisfaction rating. |
 
-> More projects can be added in the `projects` folder as separate Markdown files.  
 
 ---
 
